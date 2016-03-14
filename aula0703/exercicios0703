@@ -1,0 +1,7 @@
+Dois amigos jogam na loteria toda semana. Escreva um programa que solicite com quanto cada um entrou em dinheiro e o valor do prêmio que deve ser rateado em partes diretamente proporcionais ás quantias com que cada um entrou. O programa deve imprimir quanto receberá cada um se eles ganharem.
+
+Sabendo que o latão é obtido fundindo-se sete partes de cobre com três partes de zinco, faça um programa que solicite quantos quilos de latão ele quer produzir e imprima quantos quilos de cobre e de zinco são necessários
+
+Uma firma contrata um encanador a 20.000,00 por dia. Crie um programa que solicite o número de dias trabalhados pelo encanador e imprima a quantia líquida que deverá ser paga, sabendo-se que são descontados 8% para o imposto de renda.
+
+Faça um programa que solicite um caractere de teclado por meio da função getch se for uma letra minúscula imprima-a em maiúsculo, caso contrario imprima o próprio caractere, Use uma expressão condicional.
