@@ -1,0 +1,14 @@
+Elaborar um programa que apresente como resultado o valor de uma potência de uma base qualquer elevada a um expoente qualquer, ou seja, de x^n, em que x é o valor da base e n o valor do expoente. Considere apenas a entrada de valores inteiros e positivos.
+
+Escreva um programa que apresente a série de fibonacci até o décimo quinto termo, A série de Fibonacci é formada pela sequencia: 1, 1, 2, 3, 5, 8, 13, 21, 34, ... etc. Esta série se caracteriza pela soma de um termo posterior com o seu anterior subsequente.
+
+Elaborar um programa que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius, O programa deverá apresentar o valor das 2 temperaturas.
+
+Elaborar um programa que efetue o cálculo e no final apresente o somatório do número de grãos de trigo que se pode obter num tabuleiro de xadrez, obedecendo à segunte regra: colocar um grão de trigo no primeiro quadro e nos quadros seguintes o dobro do quadro anterior, Ou seja, no primeiro quadro coloca-se 1 grão, no segundo quadrado colocam-se 2 grãos (neste momento têm-se 3 grãos), no terceiro quadro colocam-se 4 grãos (neste momento têm-se 7 grãos), no quarto quadrado colocam-se 8 grãos (neste momento têm-se 15 grãos) até atingir o sexagésimo quarto quadrado.
+
+
+
+
+
+
+
